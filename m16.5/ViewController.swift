@@ -16,4 +16,6 @@ class ViewController: UIViewController {
 
 
 }
-
+func greet(){
+    print("hello")
+}
